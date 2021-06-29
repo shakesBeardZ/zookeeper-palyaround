@@ -1,0 +1,4 @@
+notification-template:
+- title: "Send Gift SMS"
+  type: "SMS"
+  body: "Hello, dfdfdf {{reciever_name}} you got a gift from {{sender_name}}, this the link {{gift_url}}, enjoy!"
